@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hey, I'm Aman 👋
 
-<!--
-**Aman-N-Dev/Aman-N-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Python Learner | Lifelong Builder
 
-Here are some ideas to get you started:
+I'm an 18-year-old student who recently finished high school and is preparing for the next stage of my journey in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is Python, with some experience in Swift and SwiftUI. I'm passionate about Artificial Intelligence, Machine Learning, and building projects that help me learn by doing.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Recently completed high school
+- 🐍 Primarily learning Python
+- 📱 Exploring Swift & SwiftUI
+- 🤖 Aspiring AI Engineer
+- 💼 Completed an internship
+- 🏆 Participated in coding and academic competitions
+- 📚 Strong believer in continuous learning
+
+---
+
+## 🌱 Currently Learning
+
+- Python Development
+- Data Structures & Algorithms
+- Git & GitHub
+- Machine Learning Fundamentals
+- AI Engineering Concepts
+
+---
+
+## 🎯 Goals
+
+- Build a strong portfolio of projects
+- Contribute to open-source software
+- Learn Machine Learning and Deep Learning
+- Gain real-world software development experience
+- Become an AI Engineer
+
+---
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🎮 Beyond Tech
+
+When I'm not coding, you'll probably find me:
+
+- 🎮 Gaming
+- 📖 Reading
+- 💡 Exploring new technologies
+- ☕ Learning something completely unrelated to what I planned for the day
+
+---
+
+## 💭 Philosophy
+
+> "The best way to learn is to build."
+
+Every project in this profile represents another step toward becoming a skilled AI Engineer.
+
+Thanks for stopping by!
