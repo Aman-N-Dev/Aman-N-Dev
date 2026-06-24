@@ -52,9 +52,9 @@ My primary focus is Python, with some experience in Swift and SwiftUI. I'm passi
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-N-Dev&layout=compact)
 
 ---
 
