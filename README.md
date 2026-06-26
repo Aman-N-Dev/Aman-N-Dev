@@ -7,6 +7,7 @@ I'm an 18-year-old student who recently finished high school and is preparing fo
 My primary focus is Python, with some experience in Swift and SwiftUI. I'm passionate about Artificial Intelligence, Machine Learning, and building projects that help me learn by doing.
 
 ---
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true)
 
 ## 🚀 About Me
 
@@ -51,9 +52,6 @@ My primary focus is Python, with some experience in Swift and SwiftUI. I'm passi
 ---
 
 ## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-N-Dev&layout=compact)
 
 ---
