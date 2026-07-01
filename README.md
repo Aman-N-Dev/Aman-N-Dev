@@ -50,13 +50,6 @@ My primary focus is Python, with some experience in Swift and SwiftUI. I'm passi
 
 ---
 
-## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-N-Dev&layout=compact)
-
----
-
 ## 🎮 Beyond Tech
 
 When I'm not coding, you'll probably find me:
