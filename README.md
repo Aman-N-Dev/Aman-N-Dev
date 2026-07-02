@@ -110,6 +110,46 @@ Progress ▰▱▱▱▱
 
 ---
 
+# Currently Playing
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="185">
+
+<img src="assets/albumArt.svg" width="90">
+
+</td>
+
+<td align="left">
+
+### 不可思議のカルテ
+
+**桜島麻衣 Ver.**
+
+Mai Sakurajima (CV: Asami Seto)
+
+<br>
+
+<img src="assets/equalizer.svg" width="95">
+
+<br>
+
+`♪ Playing...`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
 # Philosophy
 
 > **"Consistency is Strength."**
