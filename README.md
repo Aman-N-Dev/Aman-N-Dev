@@ -109,46 +109,27 @@ Progress ▰▱▱▱▱
 ```
 
 ---
+## 🎧 Now Playing
 
-# Currently Playing
+<p align="left">
+  <img src="assets/your-lie-in-april.jpg" width="320" style="border-radius: 16px;" />
+</p>
 
-<div align="center">
+<p align="left">
+  <b>Hikaru Nara (but is it okay if it's lofi?)</b><br>
+  Lofi Remix / Chill Version
+</p>
 
-<table>
+<p align="left">
+  <a href="https://open.spotify.com" target="_blank">
+    🎵 Listen on Spotify
+  </a>
+</p>
 
-<tr>
-
-<td width="185">
-
-<img src="assets/albumArt.svg" width="90">
-
-</td>
-
-<td align="left">
-
-### 不可思議のカルテ
-
-**桜島麻衣 Ver.**
-
-Mai Sakurajima (CV: Asami Seto)
-
-<br>
-
-<img src="assets/equalizer.svg" width="95">
-
-<br>
-
-`♪ Playing...`
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
+<!-- Lofi Visualizer -->
+<p align="left">
+  <img src="assets/lofi-visualizer.svg" width="320"/>
+</p>
 
 # Philosophy
 
