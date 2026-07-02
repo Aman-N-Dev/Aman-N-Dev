@@ -35,7 +35,6 @@ Connection Established...
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Aman-N-Dev&theme=github-dark&hide_border=true"/>
 
