@@ -1,70 +1,215 @@
-# Hey, I'm Aman 👋
+<div align="center">
 
-### Aspiring AI Engineer | Python Learner | Lifelong Builder
+# 影  A M A N  影
 
-I'm an 18-year-old student who recently finished high school and is preparing for the next stage of my journey in technology.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Projects+Every+Week"/>
 
-My primary focus is Python, with some experience in Swift and SwiftUI. I'm passionate about Artificial Intelligence, Machine Learning, and building projects that help me learn by doing.
+### 「Python • Artificial Intelligence • Machine Learning」
 
----
+> *"The future is something you create yourself."*
 
-## 🚀 About Me
+════════════════════════════════════════════════════
 
-- 🎓 Recently completed high school
-- 🐍 Primarily learning Python
-- 📱 Exploring Swift & SwiftUI
-- 🤖 Aspiring AI Engineer
-- 💼 Completed an internship
-- 🏆 Participated in coding and academic competitions
-- 📚 Strong believer in continuous learning
+</div>
 
----
+# 「自己紹介」
 
-## 🌱 Currently Learning
+```txt
+SYSTEM.LOG
 
-- Python Development
-- Data Structures & Algorithms
-- Git & GitHub
-- Machine Learning Fundamentals
-- AI Engineering Concepts
+Loading profile...
 
----
+✓ Name........ Aman
+✓ Status...... Online
+✓ Language.... Python
+✓ Focus....... Artificial Intelligence
+✓ Learning.... Machine Learning
+✓ Goal........ Build software that matters
 
-## 🎯 Goals
-
-- Build a strong portfolio of projects
-- Contribute to open-source software
-- Learn Machine Learning and Deep Learning
-- Gain real-world software development experience
-- Become an AI Engineer
+Connection Established...
+```
 
 ---
 
-## 🛠️ Technologies
+# 「統計」
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
-## 🎮 Beyond Tech
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
-When I'm not coding, you'll probably find me:
+</div>
 
-- 🎮 Gaming
-- 📖 Reading
-- 💡 Exploring new technologies
-- ☕ Learning something completely unrelated to what I planned for the day
+<br>
 
----
+<div align="center">
 
-## 💭 Philosophy
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
 
-> "The best way to learn is to build."
+</div>
 
-Every project in this profile represents another step toward becoming a skilled AI Engineer.
+════════════════════════════════════════════════════
 
-Thanks for stopping by!
+# 「技術」
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,swift,git,github,vscode,linux"/>
+
+</div>
+
+════════════════════════════════════════════════════
+
+# 「現在勉強中」
+
+```
+▰ Python Development
+
+▰ Data Structures & Algorithms
+
+▰ Object-Oriented Programming
+
+▰ Git & GitHub
+
+▰ Machine Learning
+
+▰ Artificial Intelligence
+```
+
+════════════════════════════════════════════════════
+
+# 「プロジェクト」
+
+╭──────────────────────────────────────────────╮
+
+### 🔐 Password Manager
+
+• Password Generator
+
+• Encryption (Coming Soon)
+
+• File Storage
+
+Status ▰▰▰▱▱
+
+╰──────────────────────────────────────────────╯
+
+<br>
+
+╭──────────────────────────────────────────────╮
+
+### ✅ Todo List
+
+• Persistent Storage
+
+• File Handling
+
+• CLI Interface
+
+Status ▰▰▰▰▱
+
+╰──────────────────────────────────────────────╯
+
+<br>
+
+╭──────────────────────────────────────────────╮
+
+### 🎮 Tic-Tac-Toe
+
+• Python
+
+• AI Minimax
+
+• Command Line
+
+Status ▰▰▰▱▱
+
+╰──────────────────────────────────────────────╯
+
+<br>
+
+╭──────────────────────────────────────────────╮
+
+### 🤖 AI Projects
+
+Coming Soon...
+
+Status ▱▱▱▱▱
+
+╰──────────────────────────────────────────────╯
+
+════════════════════════════════════════════════════
+
+# 「目標」
+
+```
+✓ Build an AI Portfolio
+
+✓ Learn Machine Learning
+
+✓ Contribute to Open Source
+
+✓ Develop Useful Software
+
+✓ Never Stop Learning
+```
+
+════════════════════════════════════════════════════
+
+# 「哲学」
+
+> 「継続は力なり。」
+
+> *Consistency is Power.*
+
+```python
+class Aman:
+
+    role = "Future AI Engineer"
+
+    learning = [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Structures"
+    ]
+
+    motto = "Build. Learn. Repeat."
+```
+
+════════════════════════════════════════════════════
+
+# 「実績」
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+
+</div>
+
+════════════════════════════════════════════════════
+
+# 「訪問者」
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=000000)
+
+</div>
+
+════════════════════════════════════════════════════
+
+<div align="center">
+
+### 「夢を見ることができれば、それは実現できる。」
+
+*"If you can dream it, you can build it."*
+
+◈ ◈ ◈
+
+Thanks for stopping by.
+
+██████████████████████████████████
+
+</div>
