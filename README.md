@@ -12,7 +12,7 @@
 
 </div>
 
-# 「自己紹介」
+# 「About Me」
 
 ```txt
 SYSTEM.LOG
@@ -31,13 +31,13 @@ Connection Established...
 
 ---
 
-# 「統計」
+# 「My Stats」
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aman-N-Dev&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Aman-N-Dev&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Connection Established...
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-N-Dev&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -79,53 +79,8 @@ Connection Established...
 
 ════════════════════════════════════════════════════
 
-# 「プロジェクト」
+# 「Projects」
 
-╭──────────────────────────────────────────────╮
-
-### 🔐 Password Manager
-
-• Password Generator
-
-• Encryption (Coming Soon)
-
-• File Storage
-
-Status ▰▰▰▱▱
-
-╰──────────────────────────────────────────────╯
-
-<br>
-
-╭──────────────────────────────────────────────╮
-
-### ✅ Todo List
-
-• Persistent Storage
-
-• File Handling
-
-• CLI Interface
-
-Status ▰▰▰▰▱
-
-╰──────────────────────────────────────────────╯
-
-<br>
-
-╭──────────────────────────────────────────────╮
-
-### 🎮 Tic-Tac-Toe
-
-• Python
-
-• AI Minimax
-
-• Command Line
-
-Status ▰▰▰▱▱
-
-╰──────────────────────────────────────────────╯
 
 <br>
 
@@ -141,7 +96,7 @@ Status ▱▱▱▱▱
 
 ════════════════════════════════════════════════════
 
-# 「目標」
+# 「Goal」
 
 ```
 ✓ Build an AI Portfolio
@@ -157,7 +112,7 @@ Status ▱▱▱▱▱
 
 ════════════════════════════════════════════════════
 
-# 「哲学」
+# 「My philosophy」
 
 > 「継続は力なり。」
 
@@ -180,21 +135,11 @@ class Aman:
 
 ════════════════════════════════════════════════════
 
-# 「実績」
+# 「Achievement」
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-
-</div>
-
-════════════════════════════════════════════════════
-
-# 「訪問者」
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=000000)
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-N-Dev&theme=algolia&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
