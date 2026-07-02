@@ -114,11 +114,11 @@ Progress ▰▱▱▱▱
 <p align="left">
   <img src="assets/your-lie-in-april.jpg" width="320" style="border-radius: 16px;" />
 </p>
-
+<!-- Lofi Visualizer -->
 <p align="left">
-  <b>Hikaru Nara (but is it okay if it's lofi?)</b><br>
-  Lofi Remix / Chill Version
+  <img src="assets/lofi-visualizer.svg" width="320"/>
 </p>
+
 
 <p align="left">
   <a href="https://open.spotify.com" target="_blank">
@@ -126,10 +126,6 @@ Progress ▰▱▱▱▱
   </a>
 </p>
 
-<!-- Lofi Visualizer -->
-<p align="left">
-  <img src="assets/lofi-visualizer.svg" width="320"/>
-</p>
 
 # Philosophy
 
