@@ -19,12 +19,12 @@ SYSTEM.LOG
 
 Loading profile...
 
-✓ Name........ Aman
+✓ Name........ Aman Naithakotil
 ✓ Status...... Online
 ✓ Primary..... Python
 ✓ Focus....... Artificial Intelligence
 ✓ Learning.... Machine Learning
-✓ Goal........ Build software that matters
+✓ Goal........ Build Impactful Programs
 
 Connection Established...
 ```
